@@ -48,7 +48,7 @@ export default function Home() {
 	);
 }
 
-export function H1({
+function H1({
 	children,
 	className,
 }: {
