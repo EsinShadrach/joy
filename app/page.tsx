@@ -18,9 +18,9 @@ export default function Home() {
 	return (
 		<main className="container mx-auto">
 			<div className="typewriter w-fit mx-auto text-center space-y-2">		
-						<H1 className=" py-2 base-typewriter w-fit">
-						 Deeznuts
-						</H1>
+				<H1 className=" py-2 base-typewriter w-fit">
+					Congratulations Ujuu, for not getting lost! 
+				</H1>
 			</div>
 		</main>
 	);
